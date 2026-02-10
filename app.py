@@ -332,7 +332,7 @@ else:
     st.error("Failed to load model or data. Please ensure the files are present.")
 
 # Footer
-st.markdown("---")
+st.markdown("--")
 st.markdown("""
     <div style='text-align: center; color: white; padding: 20px;'>
     <p>🛍️ Mall Customer Clustering Analysis | Powered by K-Means & Decision Tree ML Models</p>
